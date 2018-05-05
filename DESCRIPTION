@@ -4,8 +4,8 @@ Description: Exposes an annotation databases generated from UCSC by exposing the
 Version: 0.0.2
 Author: Savannah Speir, Rob Scharpf
 Maintainer: Rob Scharpf <rscharpf@jhu.edu>
-Depends: GenomicFeatures (>= 1.19.32)
-Imports: GenomicFeatures, AnnotationDbi
+Depends: GenomicFeatures (>= 1.21.30)
+Imports: AnnotationDbi
 License: Artistic-2.0
 organism: Homo sapiens
 species: Homo sapiens
