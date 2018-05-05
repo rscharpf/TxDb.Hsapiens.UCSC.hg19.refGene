@@ -1,7 +1,7 @@
 Package: TxDb.Hsapiens.UCSC.hg19.refGene
 Title: Annotation package for TxDb object(s)
-Description: Exposes an annotation databases generated from UCSC by exposing these as TxDb objects
-Version: 0.0.2
+Description: Exposes an annotation databases generated from UCSC by exposing these as TxDb objects.
+Version: 0.0.99
 Author: Savannah Speir, Rob Scharpf
 Maintainer: Rob Scharpf <rscharpf@jhu.edu>
 Depends: GenomicFeatures (>= 1.21.30)
@@ -14,4 +14,3 @@ provider_version: hg19 genome based on the refGene table
 resource_url: http://genome.ucsc.edu/
 biocViews: AnnotationData, Genetics, TxDb, Homo_sapiens
 NeedsCompilation: no
-
